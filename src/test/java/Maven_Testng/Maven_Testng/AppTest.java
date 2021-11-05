@@ -1,20 +1,13 @@
 package Maven_Testng.Maven_Testng;
 
-import static org.junit.Assert.assertTrue;
-
-import org.junit.Test;
-
 /**
- * Unit test for simple App.
+ * Hello world!
+ *
  */
-public class AppTest 
+public class AppTest
 {
-    /**
-     * Rigorous Test :-)
-     */
-    @Test
-    public void shouldAnswerWithTrue()
+    public static void main( String[] args )
     {
-        assertTrue( true );
+        System.out.println( "Hello World!" );
     }
 }

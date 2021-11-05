@@ -3,7 +3,7 @@
 <suite name="Suite" parallel="none">
   <test name="Test">
   <classes>
-  <class name="crossBrowserTest.crossBrowser"></class>
+  <class name="Maven_Testng.Maven_Testng.crossBrowserTest"></class>
   </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
